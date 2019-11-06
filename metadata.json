@@ -1,0 +1,18 @@
+{
+  "name": "ahmadf-ssh",
+  "version": "8.0.0",
+  "author": "Fassil",
+  "summary": "testing",
+  "license": "Apache",
+  "source": "https://gitlabs.ccom",
+  "project_page": "testing",
+  "issues_url": "apache",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ],
+  "data_provider": null
+}
+
